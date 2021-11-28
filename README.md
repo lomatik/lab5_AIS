@@ -1,1 +1,1 @@
-<h1>2 tasks from 5th labgit </h1> 
+<h1>2 tasks from 5th lab </h1> 
